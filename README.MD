@@ -48,5 +48,15 @@ Please, follow the [Stanford’s Eigenimages course material](https://web.stanfo
 We’ll go the convenient way by creating a flask application, that appears in such interface:
 
 1. Home page
+
+Start with a simple options.
+![App](https://github.com/batis1988/face_recognition_app/blob/main/static/images/start_app.jpg)
+
 2. Application page
+
+Go towards prediction, specify the input format.
+![Prediction](https://github.com/batis1988/face_recognition_app/blob/main/static/images/app_page.jpg)
+
 3. Gender prediction page
+Get the output.
+![Output](https://github.com/batis1988/face_recognition_app/blob/main/static/images/app_results.jpg)
