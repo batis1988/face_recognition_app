@@ -20,7 +20,7 @@ So, to bring you explicitness of the contest, the main purpose of the project is
 
 The source of images is a well known `IMDB-WIKI**–500k+ face images with age and gender labels**`, published in 2015. And, to be more precise is the "[Faces only (1 GB)](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_crop.tar)" version. 
 
-(https://github.com/batis1988/face_recognition_app/blob/main/static/images/pics.png)
+![Example](https://github.com/batis1988/face_recognition_app/blob/main/static/images/pics.png)
 
 ## Preprocessing stage reveal
 
