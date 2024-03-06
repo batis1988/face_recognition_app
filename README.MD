@@ -58,5 +58,6 @@ Go towards prediction, specify the input format.
 ![Prediction](https://github.com/batis1988/face_recognition_app/blob/main/static/images/app_page.jpg)
 
 3. Gender prediction page
+
 Get the output.
 ![Output](https://github.com/batis1988/face_recognition_app/blob/main/static/images/app_results.jpg)
